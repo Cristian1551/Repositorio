@@ -2,3 +2,5 @@
 preguntas = {}
 
 pregunta1 = input("Usted es pregunton")
+print("Usted es muy mamita")
+
